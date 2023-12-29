@@ -5,11 +5,11 @@
 ## 🛠️ 기술 스택
 
 ### 👨‍💻 프로그래밍 언어
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 파이썬
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 고랭
-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) 코틀린
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) C++
-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) 다트
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 
 
@@ -19,10 +19,10 @@
 
 ### ⚙️ 백엔드
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 마이에스큐엘
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 플라스크
-- ![Entgo](https://img.shields.io/badge/Entgo-7F52FF?style=flat&logo=entgo&logoColor=white) 엔트고
-- ![Gofiber](https://img.shields.io/badge/Gofiber-88CCFF?style=flat&logo=gofiber&logoColor=white) 고파이버
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
+- ![Entgo](https://img.shields.io/badge/Entgo-7F52FF?style=flat&logo=entgo&logoColor=white) 
+- ![Gofiber](https://img.shields.io/badge/Gofiber-88CCFF?style=flat&logo=gofiber&logoColor=white) 
 
 ## 📈 GitHub 통계
 
