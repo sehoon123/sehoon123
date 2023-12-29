@@ -24,6 +24,10 @@
 - ![Entgo](https://img.shields.io/badge/Entgo-7F52FF?style=flat&logo=entgo&logoColor=white) 
 - ![Gofiber](https://img.shields.io/badge/Gofiber-88CCFF?style=flat&logo=gofiber&logoColor=white) 
 
+### 🤖 인공지능
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+
 ## 📈 GitHub 통계
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehoon123&show_icons=true&theme=dark)
