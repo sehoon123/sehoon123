@@ -49,6 +49,6 @@
 - Gmail: [ghostb123@gmail.com](mailto:ghostb123@gmail.com)
 - Naver: [sehoon0519@naver.com](mailto:sehoon0519@naver.com)
 
-![Visitor Count](https://profile-counter.glitch.me/{sehoon123}/count.svg)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [LinkedIn 프로필](https://www.linkedin.com/in/sehun-jung-55b5342a7)
 
 
