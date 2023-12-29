@@ -2,7 +2,6 @@
 
 이곳은 제 GitHub 프로필 페이지입니다. 제가 사용하는 기술과 언어, 그리고 제가 참여한 프로젝트에 대해 소개합니다.
 
-## 📈 GitHub 통계
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehoon123&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehoon0519)](https://solved.ac/sehoon0519/)  
