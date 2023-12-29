@@ -5,22 +5,24 @@
 ## 🛠️ 기술 스택
 
 ### 👨‍💻 프로그래밍 언어
-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 파이썬
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 고랭
+- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) 코틀린
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) C++
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) 다트
+
+
 
 ### 🌐 프론트엔드
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-- ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
-- ![Recoil](https://img.shields.io/badge/-Recoil-Black?style=flat&logo=recoil&logoColor=white)
+
 
 ### ⚙️ 백엔드
-- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 마이에스큐엘
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 플라스크
+- ![Entgo](https://img.shields.io/badge/Entgo-7F52FF?style=flat&logo=entgo&logoColor=white) 엔트고
+- ![Gofiber](https://img.shields.io/badge/Gofiber-88CCFF?style=flat&logo=gofiber&logoColor=white) 고파이버
 
 ## 📈 GitHub 통계
 
@@ -28,7 +30,7 @@
 
 ## 🌟 가장 많이 사용한 언어
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehoon123&layout=compact&theme=dark)
 
 ## 🏆 활동
 
