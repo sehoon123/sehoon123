@@ -6,7 +6,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehoon123&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehoon0519)](https://solved.ac/sehoon0519/)
-
+![SWM](https://www.swmaestro.org/static/sw/img/common/logo.png)
 
 ## 🛠️ 기술 스택
 
