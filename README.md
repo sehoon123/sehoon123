@@ -54,3 +54,7 @@
 
 - 서울, 대한민국
 
+## 📬 연락처
+- Gmail: [ghostb123@gmail.com](mailto:ghostb123@gmail.com)
+
+
