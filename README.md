@@ -2,8 +2,9 @@
 
 이곳은 제 GitHub 프로필 페이지입니다. 제가 사용하는 기술과 언어, 그리고 제가 참여한 프로젝트에 대해 소개합니다.
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehoon123&show_icons=true&theme=dark)
+## 🌟 통계
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehoon123&show_icons=true&theme=dark)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehoon123&layout=compact&theme=dark)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehoon0519)](https://solved.ac/sehoon0519/)  
 
 ![SWM](https://www.swmaestro.org/static/sw/img/common/logo.png)
@@ -40,9 +41,7 @@
 
 
 
-## 🌟 가장 많이 사용한 언어
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehoon123&layout=compact&theme=dark)
 
 ## 🏆 활동
 
