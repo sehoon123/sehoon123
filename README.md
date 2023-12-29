@@ -41,16 +41,6 @@
 
 
 
-
-
-## 🏆 활동
-
-- 2023년 기여: 
-- Public Repos:
-- Total PRs: 
-- Total Issues: 
-- Contributed to: 
-
 ## 📍 위치
 
 - 서울, 대한민국
