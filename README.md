@@ -56,5 +56,6 @@
 
 ## 📬 연락처
 - Gmail: [ghostb123@gmail.com](mailto:ghostb123@gmail.com)
+- Naver: [sehoon0519@naver.com](mailto:sehoon0519@naver.com)
 
 
