@@ -1,4 +1,4 @@
-# 안녕하세요! 저는 정세훈입니다 👋
+# 안녕하세요!👋
 
 - 저는 열정적인 소프트웨어 개발자로, 다양한 프로그래밍 언어와 최신 기술에 능숙합니다.
 - 인공지능, 모바일 앱 개발, 백엔드 시스템 구축에 특히 관심이 많으며, 지속적인 학습과 혁신을 추구합니다.
@@ -18,9 +18,7 @@
 ### 👨‍💻 프로그래밍 언어
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-- ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### 🌐 프론트엔드
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -42,8 +40,6 @@
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
 - ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-
 
 
 ## 📍 위치
